@@ -1,0 +1,72 @@
+[
+  {
+    "id": "804b8fd0-155d-4a2b-ad83-181ac42658cc",
+    "name": "Gator 1",
+    "status": "IN_SERVICE",
+    "assignedIncident": null,
+    "personnel": [
+      "Brookeman"
+    ],
+    "lastUpdated": "2025-04-07T21:02:53.005Z"
+  },
+  {
+    "id": "988ac050-3e29-47ca-943e-6132e3bf06ae",
+    "name": "Gator 2",
+    "status": "IN_SERVICE",
+    "assignedIncident": null,
+    "personnel": [
+      "Williams"
+    ],
+    "lastUpdated": "2025-04-07T18:01:21.994Z"
+  },
+  {
+    "id": "71190a48-0b04-4177-9cc8-91364e2fcbe5",
+    "name": "Walking 1",
+    "status": "IN_SERVICE",
+    "assignedIncident": null,
+    "personnel": [
+      "Carter"
+    ],
+    "lastUpdated": "2025-04-05T01:23:28.361Z"
+  },
+  {
+    "id": "c2a36fd6-2481-4232-8ddc-78b12a71d830",
+    "name": "Walking 2",
+    "status": "IN_SERVICE",
+    "assignedIncident": null,
+    "personnel": [
+      "James"
+    ],
+    "lastUpdated": "2025-04-07T20:46:11.676Z"
+  },
+  {
+    "id": "8a31ef07-0f74-4f0f-a4bc-b93cb37fd6c5",
+    "name": "Operations",
+    "status": "IN_SERVICE",
+    "assignedIncident": null,
+    "personnel": [
+      "Brooks"
+    ],
+    "lastUpdated": "2025-04-04T17:44:50.092Z"
+  },
+  {
+    "id": "71513d61-0c18-41eb-bb19-f480d08453d0",
+    "name": "Interior care supervisor",
+    "status": "IN_SERVICE",
+    "assignedIncident": null,
+    "personnel": [
+      "Leavell"
+    ],
+    "lastUpdated": "2025-04-07T17:57:53.536Z"
+  },
+  {
+    "id": "5f1e4e9d-daf1-4543-aa81-aa3652296deb",
+    "name": "Exterior care supervisor",
+    "status": "IN_SERVICE",
+    "assignedIncident": null,
+    "personnel": [
+      "Patton"
+    ],
+    "lastUpdated": "2025-04-07T21:02:52.126Z"
+  }
+]

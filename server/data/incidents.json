@@ -1,0 +1,313 @@
+[
+  {
+    "id": "a85ee657-f194-450e-898b-3ee5f3b15f0a",
+    "callType": "Falls",
+    "location": "test 123",
+    "assignedUnits": [],
+    "comments": [],
+    "status": "ACTIVE",
+    "actionLog": [
+      {
+        "action": "INCIDENT_CREATED",
+        "timestamp": "2025-04-01T08:25:19.026Z",
+        "details": "Incident created by system"
+      },
+      {
+        "action": "INCIDENT_UPDATED",
+        "timestamp": "2025-04-01T08:25:31.138Z",
+        "details": "Initial incident details updated"
+      },
+      {
+        "action": "UNIT_ASSIGNED",
+        "timestamp": "2025-04-01T08:25:34.377Z",
+        "details": "Unit 0304ba4b-4085-4e59-822d-a6f3788322c0 assigned to incident"
+      },
+      {
+        "action": "INCIDENT_UPDATED",
+        "timestamp": "2025-04-01T08:25:36.173Z",
+        "details": "Incident details updated"
+      },
+      {
+        "action": "INCIDENT_CLEARED",
+        "timestamp": "2025-04-01T08:30:02.382Z",
+        "details": "Incident marked as inactive"
+      },
+      {
+        "action": "INCIDENT_REOPENED",
+        "timestamp": "2025-04-01T08:49:52.522Z",
+        "details": "Incident reopened"
+      },
+      {
+        "action": "INCIDENT_CLEARED",
+        "timestamp": "2025-04-01T08:53:14.682Z",
+        "details": "Incident marked as inactive"
+      },
+      {
+        "action": "INCIDENT_REOPENED",
+        "timestamp": "2025-04-01T08:53:19.521Z",
+        "details": "Incident reopened"
+      },
+      {
+        "action": "INCIDENT_CLEARED",
+        "timestamp": "2025-04-01T08:53:25.876Z",
+        "details": "Incident marked as inactive"
+      },
+      {
+        "action": "INCIDENT_REOPENED",
+        "timestamp": "2025-04-07T18:54:26.654Z",
+        "details": "Incident reopened"
+      }
+    ],
+    "creationTime": "2025-04-01T08:25:19.026Z",
+    "lastUpdated": "2025-04-07T18:54:26.626Z"
+  },
+  {
+    "id": "87b5d72a-263d-4585-9ba6-950ccdfc2fe6",
+    "callType": "Chest pain",
+    "location": "plot 456",
+    "assignedUnits": [],
+    "comments": [
+      {
+        "text": "test 123",
+        "timestamp": "2025-04-07T18:44:21.310Z",
+        "author": "System Administrator",
+        "username": "SAdministrator"
+      }
+    ],
+    "status": "ACTIVE",
+    "actionLog": [
+      {
+        "action": "INCIDENT_CREATED",
+        "timestamp": "2025-04-05T01:22:40.134Z",
+        "details": "Incident created by system"
+      },
+      {
+        "action": "INCIDENT_UPDATED",
+        "timestamp": "2025-04-05T01:22:52.614Z",
+        "details": "Initial incident details updated"
+      },
+      {
+        "action": "UNIT_ASSIGNED",
+        "timestamp": "2025-04-05T01:22:55.477Z",
+        "details": "Unit Gator 1 assigned to incident"
+      },
+      {
+        "action": "UNIT_ASSIGNED",
+        "timestamp": "2025-04-05T01:22:56.901Z",
+        "details": "Unit Walking 1 assigned to incident"
+      },
+      {
+        "action": "UNIT_STATUS_CHANGED",
+        "timestamp": "2025-04-05T01:23:00.051Z",
+        "details": "Unit Gator 1 status changed from DISPATCHED to EN_ROUTE"
+      },
+      {
+        "action": "UNIT_ASSIGNED",
+        "timestamp": "2025-04-05T01:23:06.939Z",
+        "details": "Unit Walking 2 assigned to incident via drag and drop"
+      },
+      {
+        "action": "UNIT_REMOVED",
+        "timestamp": "2025-04-05T01:23:28.361Z",
+        "details": "Unit Walking 1 removed from incident"
+      },
+      {
+        "action": "UNIT_STATUS_CHANGED",
+        "timestamp": "2025-04-05T01:23:31.851Z",
+        "details": "Unit Walking 2 status changed from DISPATCHED to ON_SCENE"
+      },
+      {
+        "action": "UNIT_STATUS_CHANGED",
+        "timestamp": "2025-04-05T01:23:34.237Z",
+        "details": "Unit Walking 2 status changed from ON_SCENE to TO_CARE_CENTER"
+      },
+      {
+        "action": "UNIT_REMOVED",
+        "timestamp": "2025-04-05T01:23:36.369Z",
+        "details": "Unit Gator 1 removed from incident"
+      },
+      {
+        "action": "UNIT_STATUS_CHANGED",
+        "timestamp": "2025-04-05T01:23:40.972Z",
+        "details": "Unit Walking 2 status changed from TO_CARE_CENTER to AT_CARE_CENTER"
+      },
+      {
+        "action": "INCIDENT_CLEARED",
+        "timestamp": "2025-04-05T01:23:46.554Z",
+        "details": "Incident marked as inactive"
+      },
+      {
+        "action": "INCIDENT_REOPENED",
+        "timestamp": "2025-04-05T01:23:54.261Z",
+        "details": "Incident reopened"
+      },
+      {
+        "action": "UNIT_ASSIGNED",
+        "timestamp": "2025-04-07T16:14:17.207Z",
+        "details": "Unit Exterior care supervisor assigned to incident via drag and drop"
+      },
+      {
+        "action": "UNIT_STATUS_CHANGED",
+        "timestamp": "2025-04-07T16:14:27.433Z",
+        "details": "Unit Exterior care supervisor status changed from DISPATCHED to ON_SCENE"
+      },
+      {
+        "action": "UNIT_REMOVED",
+        "timestamp": "2025-04-07T16:14:39.207Z",
+        "details": "Unit Exterior care supervisor removed from incident"
+      },
+      {
+        "action": "UNIT_ASSIGNED",
+        "timestamp": "2025-04-07T16:14:44.547Z",
+        "details": "Unit Exterior care supervisor assigned to incident"
+      },
+      {
+        "action": "UNIT_STATUS_CHANGED",
+        "timestamp": "2025-04-07T16:14:53.341Z",
+        "details": "Unit Exterior care supervisor status changed from DISPATCHED to STAGED"
+      },
+      {
+        "action": "UNIT_REMOVED",
+        "timestamp": "2025-04-07T16:14:55.393Z",
+        "details": "Unit Exterior care supervisor removed from incident"
+      },
+      {
+        "action": "INCIDENT_UPDATED",
+        "timestamp": "2025-04-07T17:43:10.536Z",
+        "details": "Incident details updated"
+      },
+      {
+        "action": "INCIDENT_UPDATED",
+        "timestamp": "2025-04-07T17:44:39.715Z",
+        "details": "Incident details updated"
+      },
+      {
+        "action": "UNIT_STATUS_CHANGED",
+        "timestamp": "2025-04-07T17:44:50.291Z",
+        "details": "Unit Interior care supervisor status changed to En Route"
+      },
+      {
+        "action": "UNIT_STATUS_CHANGED",
+        "timestamp": "2025-04-07T17:45:12.898Z",
+        "details": "Unit Interior care supervisor status changed to Dispatched"
+      },
+      {
+        "action": "INCIDENT_UPDATED",
+        "timestamp": "2025-04-07T17:45:18.131Z",
+        "details": "Incident details updated"
+      },
+      {
+        "action": "INCIDENT_UPDATED",
+        "timestamp": "2025-04-07T17:57:54.601Z",
+        "details": "Incident details updated"
+      },
+      {
+        "action": "UNIT_ASSIGNED",
+        "timestamp": "2025-04-07T18:01:20.721Z",
+        "details": "Unit Gator 2 assigned to incident"
+      },
+      {
+        "action": "UNIT_REMOVED",
+        "timestamp": "2025-04-07T18:01:21.994Z",
+        "details": "Unit Gator 2 removed from incident"
+      },
+      {
+        "action": "UNIT_ASSIGNED",
+        "timestamp": "2025-04-07T18:16:07.678Z",
+        "details": "Unit Exterior care supervisor assigned to incident"
+      },
+      {
+        "action": "UNIT_REMOVED",
+        "timestamp": "2025-04-07T18:16:09.778Z",
+        "details": "Unit Exterior care supervisor removed from incident"
+      },
+      {
+        "action": "INCIDENT_CLEARED",
+        "timestamp": "2025-04-07T18:22:34.505Z",
+        "details": "Incident marked as inactive"
+      },
+      {
+        "action": "INCIDENT_REOPENED",
+        "timestamp": "2025-04-07T18:43:13.285Z",
+        "details": "Incident reopened"
+      },
+      {
+        "action": "COMMENT_ADDED",
+        "timestamp": "2025-04-07T18:44:21.312Z",
+        "details": "Comment added by SAdministrator: \"test 123\""
+      },
+      {
+        "action": "INCIDENT_UPDATED",
+        "timestamp": "2025-04-07T18:44:22.497Z",
+        "details": "Incident details updated"
+      },
+      {
+        "action": "UNIT_ASSIGNED",
+        "timestamp": "2025-04-07T18:50:31.133Z",
+        "details": "Unit Exterior care supervisor assigned to incident"
+      },
+      {
+        "action": "INCIDENT_UPDATED",
+        "timestamp": "2025-04-07T18:50:33.397Z",
+        "details": "Incident details updated"
+      },
+      {
+        "action": "INCIDENT_CLEARED",
+        "timestamp": "2025-04-07T18:50:38.903Z",
+        "details": "Incident marked as inactive"
+      },
+      {
+        "action": "INCIDENT_REOPENED",
+        "timestamp": "2025-04-07T18:54:28.274Z",
+        "details": "Incident reopened"
+      },
+      {
+        "action": "UNIT_ASSIGNED",
+        "timestamp": "2025-04-07T18:54:35.355Z",
+        "details": "Unit Walking 2 assigned to incident via drag and drop"
+      },
+      {
+        "action": "UNIT_REMOVED",
+        "timestamp": "2025-04-07T20:46:11.676Z",
+        "details": "Unit Walking 2 removed from incident"
+      },
+      {
+        "action": "UNIT_ASSIGNED",
+        "timestamp": "2025-04-07T20:46:13.579Z",
+        "details": "Unit Exterior care supervisor assigned to incident"
+      },
+      {
+        "action": "UNIT_STATUS_CHANGED",
+        "timestamp": "2025-04-07T20:46:15.769Z",
+        "details": "Unit Exterior care supervisor status changed from DISPATCHED to IN_SERVICE"
+      },
+      {
+        "action": "UNIT_REMOVED",
+        "timestamp": "2025-04-07T20:46:19.068Z",
+        "details": "Unit Exterior care supervisor removed from incident"
+      },
+      {
+        "action": "UNIT_ASSIGNED",
+        "timestamp": "2025-04-07T21:02:41.910Z",
+        "details": "Unit Exterior care supervisor assigned to incident via drag and drop"
+      },
+      {
+        "action": "UNIT_ASSIGNED",
+        "timestamp": "2025-04-07T21:02:47.661Z",
+        "details": "Unit Gator 1 assigned to incident via drag and drop"
+      },
+      {
+        "action": "UNIT_REMOVED",
+        "timestamp": "2025-04-07T21:02:52.127Z",
+        "details": "Unit Exterior care supervisor removed from incident"
+      },
+      {
+        "action": "UNIT_REMOVED",
+        "timestamp": "2025-04-07T21:02:53.005Z",
+        "details": "Unit Gator 1 removed from incident"
+      }
+    ],
+    "creationTime": "2025-04-05T01:22:40.134Z",
+    "lastUpdated": "2025-04-07T21:02:53.122Z"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "57172628-ad55-4ffc-86fa-366ce1f13b23",
+    "firstName": "System",
+    "lastName": "Administrator",
+    "username": "SAdministrator",
+    "createdAt": "2025-04-07T18:43:42.976Z"
+  },
+  {
+    "id": "fca814e2-da55-4f75-a864-af144f2050ea",
+    "firstName": "Harrison",
+    "lastName": "Brookeman",
+    "username": "HBrookeman",
+    "createdAt": "2025-04-07T18:44:01.527Z"
+  },
+  {
+    "id": "81bc8d63-053f-4b1a-8179-d9644c87d100",
+    "firstName": "Dayton",
+    "lastName": "Haugh",
+    "username": "DHaugh",
+    "createdAt": "2025-04-07T21:19:18.621Z"
+  }
+]
